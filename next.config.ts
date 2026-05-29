@@ -1,7 +1,4 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  /* config options here */
-};
-
-export default nextConfig;
+  // Prototype-stage: don't fail the build on lint warnings
